@@ -101,4 +101,5 @@ let $price = 23.99;//using $ sign
 console.log("Name: ", firstName);
 console.log("Username: ", user_name);
 console.log("Age: ", _age);
+
 console.log("Price: ", $price);
